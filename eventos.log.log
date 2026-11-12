@@ -1,0 +1,45 @@
+2026-11-12 14:43:01,204 - INFO - Cliente registrado: Carlos Ramirez
+2026-11-12 14:43:01,205 - ERROR - Error al registrar cliente: El nombre es obligatorio.
+2026-11-12 14:43:01,205 - INFO - Servicio registrado: Sala de capacitacion
+2026-11-12 14:43:01,205 - INFO - Cliente registrado: Laura Martinez
+2026-11-12 14:43:01,205 - INFO - Reserva creada: R001
+2026-11-12 14:43:01,206 - INFO - Reserva R001 confirmada.
+2026-11-12 14:43:01,206 - ERROR - Error creando reserva: El servicio no esta disponible.
+2026-11-12 14:43:01,207 - INFO - Reserva R001 cancelada.
+2026-11-12 14:45:09,817 - ERROR - Error del sistema.
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\OneDrive - Universidad Nacional Abierta y a Distancia\Documentos\Sistema_Software_FJ\main.py", line 629, in menu_principal
+    raise DatosInvalidosError(
+        "Seleccione una opcion del 1 al 8."
+    )
+DatosInvalidosError: Seleccione una opcion del 1 al 8.
+2026-11-12 14:45:19,521 - ERROR - Error del sistema.
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\OneDrive - Universidad Nacional Abierta y a Distancia\Documentos\Sistema_Software_FJ\main.py", line 629, in menu_principal
+    raise DatosInvalidosError(
+        "Seleccione una opcion del 1 al 8."
+    )
+DatosInvalidosError: Seleccione una opcion del 1 al 8.
+2026-11-12 14:45:25,235 - ERROR - Error del sistema.
+Traceback (most recent call last):
+  File "c:\Users\USUARIO\OneDrive - Universidad Nacional Abierta y a Distancia\Documentos\Sistema_Software_FJ\main.py", line 629, in menu_principal
+    raise DatosInvalidosError(
+        "Seleccione una opcion del 1 al 8."
+    )
+DatosInvalidosError: Seleccione una opcion del 1 al 8.
+2026-11-12 15:31:37,289 - INFO - Cliente registrado: Carlos Ramirez
+2026-11-12 15:31:37,289 - ERROR - Error al registrar cliente: El nombre es obligatorio.
+2026-11-12 15:31:37,289 - INFO - Servicio registrado: Sala de capacitacion
+2026-11-12 15:31:37,290 - INFO - Cliente registrado: Laura Martinez
+2026-11-12 15:31:37,290 - INFO - Reserva creada: R001
+2026-11-12 15:31:37,290 - INFO - Reserva R001 confirmada.
+2026-11-12 15:31:37,291 - ERROR - Error creando reserva: El servicio no esta disponible.
+2026-11-12 15:31:37,291 - INFO - Reserva R001 cancelada.
+2026-11-12 15:35:32,758 - INFO - Cliente registrado: Carlos Ramirez
+2026-11-12 15:35:32,759 - ERROR - Error al registrar cliente: El nombre es obligatorio.
+2026-11-12 15:35:32,759 - INFO - Servicio registrado: Sala de capacitacion
+2026-11-12 15:35:32,759 - INFO - Cliente registrado: Laura Martinez
+2026-11-12 15:35:32,759 - INFO - Reserva creada: R001
+2026-11-12 15:35:32,759 - INFO - Reserva R001 confirmada.
+2026-11-12 15:35:32,760 - ERROR - Error creando reserva: El servicio no esta disponible.
+2026-11-12 15:35:32,760 - INFO - Reserva R001 cancelada.
